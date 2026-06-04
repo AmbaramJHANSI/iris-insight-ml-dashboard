@@ -63,6 +63,11 @@ In addition to prediction, the application provides detailed analytics, probabil
 * Modular project structure
 * Deployment-ready architecture
 
+
+## 🚀 Live Demo
+
+[Open IrisInsight](https://iris-insight-ml-dashboard.streamlit.app/)
+
 ---
 
 ## 🧠 Machine Learning Workflow

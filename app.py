@@ -193,7 +193,7 @@ st.markdown(
     </div>
 
     <div class="hero-subtitle">
-    Machine Learning Dashboard for Iris Flower Species Prediction
+    Interactive Classification & Analytics Platform for Iris Species Identification
     </div>
     """,
     unsafe_allow_html=True
